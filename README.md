@@ -1,4 +1,4 @@
-<h1>Hi, I'm Max! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Max! <br/><a href="https://github.com/maxo9">IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">... Professional</a>, <a href="https://www.youtube.com/c/zzz">...</a></h1>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
@@ -24,5 +24,5 @@
 [twitter]: https://twitter.com/maxo9
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/maxo9/
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/max-mccollum-b5abb9116/)
+[linkedin]: [https://linkedin.com/in/max-mccollum-b5abb9116]
 
